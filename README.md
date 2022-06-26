@@ -2,7 +2,7 @@
 - 👀 I’m interested in Classical music, video editing for memes.
 - 🌱 I’m currently learning Classical guitar
 - 💞️ I’m looking to collaborate on music theory, philosophy, and technology 
-- 📫 How to reach me: Direct Message
+- 📫 How to reach me: https://twitter.com/shoshoreardon
 
 <!---
 ShoshoHrubblefongers/ShoshoHrubblefongers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
